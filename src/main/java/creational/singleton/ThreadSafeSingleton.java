@@ -1,4 +1,5 @@
-package creational;
+package creational.singleton;
+
 /*
     @Author - Sharath
     Singleton class with double check lock thread safe
